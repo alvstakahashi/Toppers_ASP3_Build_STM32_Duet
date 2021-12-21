@@ -7,7 +7,7 @@ dockerビルドするだけで、環境構築もカーネルのビルドも完�
 
 仕様<br>
 対象ボード　STM32F401RE nucleo-64  (CortexM4Fになります。)<br>
-対象TOPPERSカーネル　TOPPERS/ASP3<br>
+対象TOPPERSカーネル　TOPPERS/ASP3 および　TOPPERS/ASP<br>
 コンテナで動作するOS　ubuntu 20.04 arm64 <br>
 利用可能なツール　arm tool chain および　st-flash<br>
 開発環境のみは以下のDockerイメージになります。<br>
